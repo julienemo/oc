@@ -7,3 +7,6 @@ jusqu'ici c'est pareil pour les deux branches
 La nous sommes sur la branche alternative
 Exemple d'un alexandrin:
 je suis, mon ami,tres content de vous revoir
+
+Exemple d'un sonnet français
+Comme on voit sur la branche au mois de mai la rose

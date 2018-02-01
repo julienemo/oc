@@ -1,10 +1,24 @@
 h1
 {
-  color: blue;
-  font-weight: bold
+  color: blue;/*bleu hyper moch*/
+  font-weight: bold;
+  font-size: 20px;
 }
 h2
 {
   color:green;
   font-style: italic;
+  font-size:18px
+}
+h3
+{
+  font-size: 14px
+}
+.intro
+{
+  color:pink
+}
+p
+{
+font-size:12px
 }

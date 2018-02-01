@@ -4,6 +4,7 @@ deuxième ligne ajoutée depuis remote : Red and orange leaves flattering
 dernière ligne : where does summer go ?
 jusqu'ici c'est pareil pour les deux branches
 
+<<<<<<< HEAD
 La nous sommes sur la branche alternative
 Exemple d'un alexandrin:
 je suis, mon ami,tres content de vous revoir
@@ -17,3 +18,13 @@ Exemple d'un autre sonnet francais
 blablabla blablablablabla
 vois sur ton chemin
 gamins oublies egares
+=======
+voici un poem d'Edgar Allen Poe
+it was many and many a year ago
+in a kingdom by the sea
+that a maiden there lived whom you may know
+by the name of Annabel Lee
+
+Although quite famous for his poems as well, Poe remains one of the most
+celebrated novelists of New England bringing up.
+>>>>>>> 1d13fa2e24acf9ffbc9b4b7fca5565380307eb28

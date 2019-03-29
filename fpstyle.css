@@ -18,5 +18,22 @@
 h1
 {
   font-size: 20px;
-  color:green;
+  color:#33965e;
+  text-align:center;
+  font-style:;
+}
+#demo
+{
+  text-align:justify;
+}
+#floatingimg
+{
+  float:left
+}
+body
+{
+  background-image:url('bktheater.jpeg');
+  background-attachment: fixed;
+  background-position: center;
+  
 }
